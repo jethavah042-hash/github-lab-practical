@@ -1,0 +1,11 @@
+GitHub collaboration means multiple people working together on the same project/repository using GitHub.
+
+Each collaborator can:
+
+Read code
+
+Make changes
+
+Review code
+
+Manage issues
