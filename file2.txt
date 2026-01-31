@@ -1,0 +1,11 @@
+Types of Branches
+
+main / master – Stable, production-ready code
+
+feature branch – For new features
+
+bugfix branch – For fixing bugs
+
+release branch – For final testing
+
+hotfix branch – Quick fixes on live code
